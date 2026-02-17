@@ -126,7 +126,7 @@ const VisualizerId = () => {
             link.href = currentImage;
     
             // Try to generate a clean filename
-            const fileName = `${project?.name || `roomify-${id}`}.png`;
+            const fileName = `${project?.name || `structify-${id}`}.png`;
     
             link.download = fileName;
             document.body.appendChild(link);
@@ -213,7 +213,7 @@ const VisualizerId = () => {
                 <div className="brand">
                     <Box className="logo" />
 
-                    <span className="name">Roomify</span>
+                    <span className="name">Structify</span>
                 </div>
 
                 <Button
