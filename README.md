@@ -85,4 +85,4 @@ PUTER (Perceptual Understanding and Transformation Engine for Rooms) is a sophis
 ### Before & After Transformation
 
 #### Original Sketch
-<!-- Add Before Map Image Here -->
+<img width="1920" height="2507" alt="screencapture-structify-ten-vercel-app-visualizer-1771361800913-2026-02-18-01_57_34" src="https://github.com/user-attachments/assets/b84c715d-65a9-4ac1-9962-2bffc64e703b" />
